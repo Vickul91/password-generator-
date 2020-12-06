@@ -1,5 +1,5 @@
 # program password generator terminal version
-# Author Przemysław Książek "Vickul"
+# Author Przemysław Książek "Vickul91"
 
 import random
 import string
